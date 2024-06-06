@@ -9,7 +9,7 @@
 
   ### DESCRIÇÃO
 
-  - Nosso projeto trata-se de uma extenção de Projeto de extenção universitária, trabalhamos em uma criação e desenvolvimento web site,
+  - Nosso projeto trata-se de uma de Projeto de extensão universitária, trabalhamos em uma criação e desenvolvimento web site,
     referenciando um site e-commerce.
 
     Link de produção:
