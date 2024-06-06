@@ -7,7 +7,7 @@
 - Rogério Rosa Fernandes           RA 2223105443
 - Yuri Alves Mourão                RA 2223103805
 
-  #DESCRIÇÃO
+  # DESCRIÇÃO
 
   - Nosso projeto trata-se de uma extenção de Projeto de extenção universitária, trabalhamos em uma criação e desenvolvimento web site,
     referenciando um site e-commerce.
@@ -18,6 +18,6 @@
       - CSS
       - Javascript
    
-  #LINK DO YOUTUBE:
+  # LINK DO YOUTUBE:
   https://www.youtube.com/watch?v=YYLAVZtwtTQ
   
